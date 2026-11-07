@@ -1,0 +1,114 @@
+{
+        "Imformation Systems and Technology":{
+            "tuition" : 1500000,  
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Computer Science":{
+            "tuition" : 1500000,  
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Datebase Managment and Systems":{
+            "tuition" : 1200000,  
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Introduction to financiaL Accounting":{
+            "tuition" : 1000000,  
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Principles of Procurement and Study":{
+            "tuition" : 1200000,  
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "logistics and Transport Tanagment":{
+            "tuition" : 1100000,  
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Human Resource Managment":{
+            "tuition" : 1200000,  
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Strategic Managment":{
+            "tuition" : 1000000,  
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Introduction to Public International Law":{
+            "tuition" : 1200000,  
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "General Principle of Nursing":{
+            "tuition" : 1500000,  
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Constitution and Administrative Law":{
+            "tuition" : 1300000,
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Introduction to Business Administration":{
+            "tuition" : 1200000,
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Tourism and Hotel Managment":{
+            "tuition" : 1200000,
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        },
+        "Introduction to Education in Arts":{
+            "tuition" : 1200000,
+            "functional fees" : 600000,
+            "library" : 20000,
+            "accommodation" : 100000,
+            "examination" : 50000,
+            "registration" : 50000
+        }
+    }

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h2>My Tasks</h2>
+    <ol type="1">
+      {% for task in tasks %}
+        <li>{{ task }}</li>
+      {% endfor %}
+    </ol>
+
+  
+        <p>
+            <label for="activity">Activity</label>
+            <input type="text" name="activity">
+        </p>
+        <p>
+            <label for="worker">Worker</label>
+            <input type="text" >
+        </p>
+        <p>
+            <label for="workdone">Workdone</label>
+            <input type="text">
+        </p>
+        <buttont type="submit">Add Task</button>
+    </form>
+</head>
+<caption>Go back to try</caption>
+<a href="try.html"> click here </a>
+</body>
+</html>

@@ -1,0 +1,74 @@
+[
+    {
+        "COURSE ID": "CID001",
+        "Course name": "Introduction to Public International Law",
+        "Course code": "co11112",
+        "Total fees": 2020000,
+        "Course Duration": "3",
+        "Faculty": "law",
+        "Course level": "Bachelors",
+        "Year_of_study": 2,
+        "Entry_requirements": "certificate"
+    },
+    {
+        "Student ID": "SID-001",
+        "First name": "NKULEGA",
+        "Last name": "FAKIRU",
+        "Gender": "MALE",
+        "Course ID": "CID001",
+        "Course": "Introduction to Public International Law",
+        "Contact": "648365662839",
+        "Email": "nkulegafakiru@gmail.com",
+        "Academic level": "Bachelors",
+        "Status": "undergraduate",
+        "Year of study": "2",
+        "Entry requirement": "Certificate"
+    },
+    {
+        "Student ID": "SID-002",
+        "First name": "SSENJALA",
+        "Last name": "LATIF",
+        "Gender": "MALE",
+        "Course ID": "CID001",
+        "Course": "Introduction to Public International Law",
+        "Contact": "56373738",
+        "Email": "ssenjala@gmail.com",
+        "academic_level": "PhD",
+        "Status": "postgraduate",
+        "Research required": "TRUE",
+        "Qualification": "Bachelors"
+    },
+    {
+        "AccountLedger": {
+            "AccountLedger ID": "AC-001",
+            "Student ID": "SID-001",
+            "fees_item_name": "tuition",
+            "Total billed": 2020000.0,
+            "Amount Paid": 5789098765.0,
+            "Balance Due": -5787078765.0,
+            "Over Payment": 5787078765.0
+        },
+        "Payment": {
+            "Payment ID": "PID-001",
+            "Student ID": "SID-001",
+            "Student Name": "NKULEGA FAKIRU",
+            "Category": "tuition",
+            "Amount Paid": 5789098765.0,
+            "Payment Method": "CASH",
+            "Status": "paid",
+            "Ledger ID": "AC-001",
+            "Receipt No": "12345"
+        }
+    },
+    {
+        "COURSE ID": "CID001",
+        "Course name": "Constitution and Administrative Law",
+        "Course code": "cs60o05",
+        "Total fees": 2120000,
+        "Course Duration": "3",
+        "Faculty": "law",
+        "Course level": "Diploma",
+        "Year_of_study": 2,
+        "Entry_requirements": "5"
+    }
+]
